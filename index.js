@@ -5,7 +5,3 @@ function destructivelyAppendKitten(name) {
   array.push(name)
   return array
 }
-
-function destructivelyPrependKitten(name){
-  
-}
